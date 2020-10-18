@@ -1,0 +1,22 @@
+h1 {
+  font-size: 36px !important;
+  font-weight: bold !important;
+}
+
+.signup-content {
+  width: 100%;
+  max-width: 945px;
+  margin-top: 276px;
+  margin-left: 170px;
+}
+
+.account-container {
+  width: 100%;
+  margin: 38px 48px 49px 40px;
+}
+
+.account-container h1 {
+  font-size: 2rem;
+}
+header.svelte-1lczouq.svelte-1lczouq{height:84px;padding:0 27px}.brand.svelte-1lczouq.svelte-1lczouq{font-size:24px}.right-nav.svelte-1lczouq>a.svelte-1lczouq:not(:last-child){margin-right:40px}
+h1.svelte-8od9u6,p.svelte-8od9u6{margin:0 auto}h1.svelte-8od9u6{font-size:2.8em;font-weight:700;margin:0 0 0.5em 0}p.svelte-8od9u6{margin:1em auto}@media(min-width: 480px){h1.svelte-8od9u6{font-size:4em}}
