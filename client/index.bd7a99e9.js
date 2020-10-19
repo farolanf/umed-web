@@ -1,1 +1,0 @@
-import{S as e,i as t,s,q as a,d as r,n}from"./client.7b50ee18.js";function o(e){return{c(){this.h()},l(e){a('[data-svelte="svelte-ybyrev"]',document.head).forEach(r),this.h()},h(){document.title="UMedmarket"},m:n,p:n,i:n,o:n,d:n}}export default class extends e{constructor(e){super(),t(this,e,null,o,s,{})}}
